@@ -1,0 +1,17 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Central",
+			"country": {
+				"code": "HK",
+				"name": "Hong Kong"
+			},
+			"subdivision": {
+				"code": "HCW",
+				"name": "Central and Western District"
+			}
+		},
+		"timestamp": 1664991780903
+	},
+	"siteId": "62267d61-e3d8-4393-b4ca-b2f9e56983b9"
+}
