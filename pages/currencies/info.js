@@ -3,6 +3,9 @@ import solana from '../../images/solana.png'
 import Usd from '../../images/svg/usd'
 import { useEffect, useState } from 'react'
 import CMCPriceConverter from '../../components/CMCPriceConverter'
+import Graph from '../../components/Graph'
+import Chat from '../../components/Chat'
+
 
 // 2:35:17
 // the info page loads once we got the url data
@@ -72,7 +75,7 @@ const Currencies = () =>{
                             </div>
                         </div>
                         <br/>
-                        {/* <Graph/> */}
+                            <Graph/> 
 
                         <br/>
                         <div className={styles.flexBetweenCenter}>
@@ -103,6 +106,9 @@ const Currencies = () =>{
                         toSymbol='USD'
                         />
 
+                    </div>
+                    <div className='pt-10 ml-5'>
+                        <Chat />
                     </div>
 
                 </div>
