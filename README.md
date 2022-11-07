@@ -37,12 +37,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## ✅ Final
 ![Screen Shot 2022-11-07 at 22 11 40](https://user-images.githubusercontent.com/69332376/200345427-0fcf7f82-c3d3-4001-bf1d-cb0f59c3af60.png)
 
-`
+```
 Fetching 10 top coins using Coin MarketCap endpoint
 P2P decentrialized chat with gun js
 Token exchange basing on ETH ( Eth to your corresponding token
 
-`
+```
 
 
 ## ⚠️ Update functionality as soon as possible
