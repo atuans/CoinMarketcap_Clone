@@ -46,3 +46,5 @@ Token exchange basing on ETH ( Eth to your corresponding token
 
 
 ## ⚠️ Update functionality as soon as possible
+- let user create their own token
+- after import token to wallet, they can exchange their token in dApps
