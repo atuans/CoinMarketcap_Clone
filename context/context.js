@@ -1,4 +1,3 @@
-import { MiddlewareNotFoundError } from "next/dist/shared/lib/utils";
 import { createContext, useState, useEffect } from "react";
 import { useMoralis } from "react-moralis";
 import { useMoralisQuery } from "react-moralis";
